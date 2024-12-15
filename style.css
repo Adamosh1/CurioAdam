@@ -2,11 +2,12 @@ p {
     color: rgb(101, 101, 116);
     font-family: Arial, Helvetica, sans-serif;
 }
+html {background-color: rgb(185, 247, 185);}
 body {
-    background-color: rgb(192, 244, 175);
+    background-color: rgb(255, 255, 255);
     width: 700px;
     margin: auto;
-    font-size: 32px;
+    font-size: 24px;
 
 }
 
